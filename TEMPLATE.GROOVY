@@ -1,6 +1,6 @@
 // Exported from:        http://Chitrangs-MacBook-Pro.local:5516/#/templates/Release7150f71104ac4359a742e037664973e9/releasefile
 // XL Release version:   8.0.2-SNAPSHOT
-// Date created:         Thu Jun 07 20:41:11 CEST 2018
+// Date created:         Thu Jun 07 20:43:53 CEST 2018
 
 def scmConnectorConfig1 = 'PLEASE IMPLEMENT THIS METHOD'
 
@@ -9,6 +9,146 @@ xlr {
     scheduledStartDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-06-07T09:00:00+0200')
     scmConnectorConfig scmConnectorConfig1
     phases {
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
+      phase('New Phase') {
+        tasks {
+          manual('T1') {
+            
+          }
+          manual('T2') {
+            
+          }
+        }
+      }
       phase('New Phase') {
         tasks {
           manual('T1') {
