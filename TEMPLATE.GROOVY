@@ -1,6 +1,6 @@
 // Exported from:        http://Chitrangs-MacBook-Pro.local:5516/#/templates/Release7150f71104ac4359a742e037664973e9/releasefile
 // XL Release version:   8.0.2-SNAPSHOT
-// Date created:         Thu Jun 07 20:37:59 CEST 2018
+// Date created:         Thu Jun 07 20:39:04 CEST 2018
 
 def scmConnectorConfig1 = 'PLEASE IMPLEMENT THIS METHOD'
 
@@ -10,6 +10,7 @@ xlr {
     scmConnectorConfig scmConnectorConfig1
     phases {
       phase('New Phase') {
+        color '#08B153'
         tasks {
           manual('T1') {
             
