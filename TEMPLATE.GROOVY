@@ -9,7 +9,7 @@ xlr {
     scheduledStartDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-06-07T09:00:00+0200')
     scmConnectorConfig scmConnectorConfig1
     phases {
-      phase('New Phase') {
+      phase('New Phase T2') {
         tasks {
           manual('T1') {
             
